@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-image: url(/resources/images/background\(body\).avif);
+    background-image: url(/resources/images/background.avif);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
